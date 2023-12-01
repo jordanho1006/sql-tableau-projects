@@ -10,7 +10,7 @@ Feel free to navigate through the projects listed below, each providing a unique
 ## Projects
 
 ### Online Shopping Analytics with Data Visualization through SQL Server Management Studio and Tableau (December 2023)
-- **Files:** [`Online Shopping Analytics Project`](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project)
+- **Folders:** [`Online Shopping Analytics Project`](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project)
 - **Objectives:**
   - Explore and analyze an online shopping dataset to derive valuable insights into customer behavior, product sales, and transactional patterns. The project showcases the integration of SQL for database management and Tableau for creating compelling visualizations.
 - **Key Points:**
