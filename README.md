@@ -5,12 +5,12 @@ Welcome to my collection of SQL-Tableau projects, showcasing my skills in data a
 Feel free to navigate through the projects listed below, each providing a unique perspective on data-driven decision-making.
 
 ## Project Index
-1. [Online Shopping Analytics](#online-shopping-analytics-with-data-visualization-through-sql-server-management-studio-and-tableau-december-2023)
+1. [Unveiling Online Shopping Dynamics: A Data-Driven Exploration](#online-shopping-analytics-with-data-visualization-through-sql-server-management-studio-and-tableau-december-2023)
 
 ## Projects
 
-### Online Shopping Analytics with SQL Server Management Studio and Tableau (December 2023)
-- **Folders:** [`Online Shopping Analytics Project`](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project)
+### Unveiling Online Shopping Dynamics: A Data-Driven Exploration with SQL Server Management Studio and Tableau (December 2023)
+- **Folders:** [`Unveiling Online Shopping Dynamics: A Data-Driven Exploration`](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project)
 - **Objectives:**
   - Explore and analyze an online shopping dataset to derive valuable insights into customer behavior, product sales, and transactional patterns. The project showcases the integration of SQL for database management and Tableau for creating compelling visualizations.
 - **Key Points:**
