@@ -50,6 +50,7 @@ Transitioning to Tableau, the SQL query findings were used as a basis to create 
   - **Area and Bar Graphs:** Average discount percentage vs total sales throughout the year.
   - **Packed Bubble Chart:** Total spending distribution across locations.
   - **Treemaps:** Product categories by total sales.
+  - 
 File(s): ['Data Visualizations']()
 
 The individual visualizations were grouped into five interactive dashboards:
@@ -58,7 +59,9 @@ The individual visualizations were grouped into five interactive dashboards:
   - **Location Analysis Dashboard:** Explores total spending distribution across locations and product categories.
   - **Consumer Spending Dashboard:** Focuses on the highest spending consumers and their product breakdown.
   - **Coupon Engagement Dashboard:** Analyzes coupon engagement by percentage and throughout the year.
+  - 
 Each dashboard provides an interactive user experience, allowing users to explore and highlight factors they deem important.
+
 File(s): ['Interactive Dashboards']()
 
 ## Files Included
