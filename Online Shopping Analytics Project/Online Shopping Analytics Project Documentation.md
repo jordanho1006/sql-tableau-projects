@@ -1,6 +1,4 @@
 # Online Shopping Analytics Project
-
-## Introduction
 In an era dominated by online commerce, understanding customer behavior is paramount. This project delves into the dynamics of online shopping, aiming to extract actionable insights from a comprehensive dataset.
 
 ## Project Overview
