@@ -33,8 +33,9 @@ Welcome to the Dashboards section of the Online Shopping Analytics Project. Belo
 Feel free to explore each dashboard by clicking on the respective images.
 
 ## Files Included
-- `customer_demographic_dashboard.png`
-- `sales_analysis_dashboard.png`
-- `location_analysis_dashboard.png`
-- `consumer_spending_dashboard.png`
-- `coupon_engagement_dashboard.png`
+- `Dashboard 1 - Customer Demographics.png`
+- `Dashboard 2 - Sales Analysis.png`
+- `Dashboard 3 - Location Analysis.png`
+- `Dashboard 4 - Consumer Spending.png`
+- `Dashboard 5 - Coupon Engagement.png`
+- `README.md`
