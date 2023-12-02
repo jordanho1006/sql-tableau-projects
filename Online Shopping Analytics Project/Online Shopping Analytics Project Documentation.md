@@ -73,10 +73,8 @@ In the absence of actual findings, hypothetical results could include:
   - **Location Analysis Dashboard:** Identifies specific regions with higher spending on certain product categories.
   - **Consumer Spending Dashboard:** Showcases the top 10 highest spending customers and their preferred products.
   - **Coupon Engagement Dashboard:** Illustrates an increase in coupon usage during festive months.
-
-## Final Results
-
-### Customer Demographic Dashboard
+    
+**Customer Demographic Dashboard:**
 The analysis of the Customer Demographic Dashboard reveals a notable gender distribution, with a significant skew towards females across all locations. Additionally, female customers exhibit a longer average tenure on the platform compared to their male counterparts. Further exploration is recommended to understand the gender distribution concerning specific product categories.
 
 ### Sales Analysis Dashboard
