@@ -56,14 +56,14 @@ The individual visualizations were grouped into five interactive dashboards:
 Each dashboard provides an interactive user experience, allowing users to explore and highlight factors they deem important.
 
 ## Files Included
-  - ['Individual Visualizations'](): The individual visualizations created in Tableau based on SQL query findings.
-  - ['Dashboards'](): The interactive dashboards created on Tableau. *Note: These are just images of the interactive dashboard.*
+  - ['Individual Visualizations'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Individual%20Visualizations): The individual visualizations created in Tableau based on SQL query findings.
+  - ['Dashboards'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Dashboards): The interactive dashboards created on Tableau. *Note: These are just images of the interactive dashboard.*
   - ['create_database.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/analyze_data.sql): The Raw SQL query for constructing the relational database.
   - ['analyze_data.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/create_database.sql): The Raw SQL query for extensive dataset exploration.
+  - ['er-diagram.png'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/er_diagram.PNG): This file provides a simple ER diagram depicting the relational database structure.
+  - ['online_shopping_analytics.twbx'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/online_shopping_analytics.twbx): This Tableau file compromises all the data visualizations and interactive dashboards.
+  - ['online_shopping_analytics.pptx'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/online_shopping_analytics.pptx): This Powerpoint file includes static images of all the data visualizations.
   - ['Project Documentation'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/Online%20Shopping%20Analytics%20Project%20Documentation.md): This file provides an overview of the project.
-  - ['er-diagram.png'](): This file provides a simple ER diagram depicting the relational database structure.
-  - ['online_shopping_analytics.twb'](): This Tableau file compromises all the data visualizations and interactive dashboards.
-  - ['online_shopping_analytics.pptx'](): This Powerpoint file includes static images of all the data visualizations.
     
 ## Conclusion
 In the absence of actual findings, hypothetical results could include:
