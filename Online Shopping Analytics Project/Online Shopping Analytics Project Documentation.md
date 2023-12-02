@@ -1,18 +1,15 @@
 # Online Shopping Analytics Project
 
-## Project Title
-**Unveiling Online Shopping Dynamics: A Data-Driven Exploration**
-
 ## Introduction
 In an era dominated by online commerce, understanding customer behavior is paramount. This project delves into the dynamics of online shopping, aiming to extract actionable insights from a comprehensive dataset.
 
 ## Project Overview
-### Dataset
+### Dataset:
 The project utilized the "Online Shopping Dataset" sourced from Kaggle. This dataset contains comprehensive information, including customer demographics, transaction details, product descriptions, and more. It played a crucial role as the foundation for exploring various aspects of online shopping behavior.
 
 Dataset Source: ['🛒 Online Shopping Dataset 📊📉📈'](https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset/data)
 
-### Project Objective(s)
+### Project Objective(s):
 The Online Shopping Analytics project aims to gain actionable insights into customer behavior and transactional patterns within the context of the online shopping dataset. The primary objective was to understand various dynamics, including customer demographics, product popularity, spending patterns, and engagement with promotional activities such as coupons.
 
 ### Exploration Questions:
@@ -22,7 +19,7 @@ The project aimed to address key questions related to online shopping behavior:
   - How do spending patterns vary throughout the year, and what role do discounts and coupons play?
   - Who are the highest spending customers, and what are their preferences?
 
-### Tools and Technologies
+### Tools and Technologies:
 The project utilized the following tools and technologies:
   - **SQL (Structured Query Language):** The primary language used for data manipulation, exploration, and analysis.
   - **SQL Server Management Studio (SSMS):** For database creation, data parsing, and initial data exploration.
@@ -50,8 +47,6 @@ Transitioning to Tableau, the SQL query findings were used as a basis to create 
   - **Area and Bar Graphs:** Average discount percentage vs total sales throughout the year.
   - **Packed Bubble Chart:** Total spending distribution across locations.
   - **Treemaps:** Product categories by total sales.
-  - 
-File(s): ['Data Visualizations']()
 
 The individual visualizations were grouped into five interactive dashboards:
   - **Customer Demographic Dashboard:** Highlights gender distribution by location.
@@ -59,18 +54,20 @@ The individual visualizations were grouped into five interactive dashboards:
   - **Location Analysis Dashboard:** Explores total spending distribution across locations and product categories.
   - **Consumer Spending Dashboard:** Focuses on the highest spending consumers and their product breakdown.
   - **Coupon Engagement Dashboard:** Analyzes coupon engagement by percentage and throughout the year.
-  - 
+    
 Each dashboard provides an interactive user experience, allowing users to explore and highlight factors they deem important.
 
-File(s): ['Interactive Dashboards']()
-
 ## Files Included
-  - ['dsadas']: The raw dataset containing sales information.
-  - Urban Essential Sales Cleaned Data.xlsx: The cleaned and preprocessed dataset used for analysis.
-  - Urban Essential Stores Analysis.sql: The SQL Server script that includes the codes for the data cleaning, exploratory data analysis, and visualizations.
-  - README.md: This file provides an overview of the project, its objectives, and the analysis performed.
-
-## Final Results
+  - ['Individual Visualizations'](): The individual visualizations created in Tableau based on SQL query findings.
+  - ['Dashboards'](): The interactive dashboards created on Tableau. *Note: These are just images of the interactive dashboard.*
+  - ['create_database.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/analyze_data.sql): The Raw SQL query for constructing the relational database.
+  - ['analyze_data.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/create_database.sql): The Raw SQL query for extensive dataset exploration.
+  - ['Project Documentation'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/Online%20Shopping%20Analytics%20Project%20Documentation.md): This file provides an overview of the project.
+  - ['er-diagram.png'](): This file provides a simple ER diagram depicting the relational database structure.
+  - ['online_shopping_analytics.twb'](): This Tableau file compromises all the data visualizations and interactive dashboards.
+  - ['online_shopping_analytics.pptx'](): This Powerpoint file includes static images of all the data visualizations.
+    
+## Conclusion
 In the absence of actual findings, hypothetical results could include:
 
   - **Customer Demographic Dashboard:** Reveals a balanced gender distribution across locations.
@@ -78,6 +75,3 @@ In the absence of actual findings, hypothetical results could include:
   - **Location Analysis Dashboard:** Identifies specific regions with higher spending on certain product categories.
   - **Consumer Spending Dashboard:** Showcases the top 10 highest spending customers and their preferred products.
   - **Coupon Engagement Dashboard:** Illustrates an increase in coupon usage during festive months.
-
-## Summary
-The Online Shopping Analytics Project successfully utilized SSMS and Tableau to derive actionable insights from the Kaggle dataset. The combination of SQL queries, visualizations, and dashboards showcased proficiency in data analysis, database management, and data visualization. While the findings are hypothetical, the project demonstrates the ability to uncover valuable insights from complex datasets within the realm of online shopping.
