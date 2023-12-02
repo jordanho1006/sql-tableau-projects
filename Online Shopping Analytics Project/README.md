@@ -58,7 +58,7 @@ Each dashboard provides an interactive user experience, allowing users to explor
 ## Files Included
   - ['Individual Visualizations'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Individual%20Visualizations): The individual visualizations created in Tableau based on SQL query findings.
   - ['Dashboards'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Dashboards): The interactive dashboards created on Tableau. *Note: These are just images of the interactive dashboard.*
-  - ['README.md'](https://github.com/jordanho1006/sql-tableau-projects/edit/main/Online%20Shopping%20Analytics%20Project/README.md): This file provides an overview of the project.
+  - ['README.md']([https://github.com/jordanho1006/sql-tableau-projects/edit/main/Online%20Shopping%20Analytics%20Project/README.md](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/README.md)): This file provides an overview of the project.
   - ['create_database.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/analyze_data.sql): The Raw SQL query for constructing the relational database.
   - ['analyze_data.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/create_database.sql): The Raw SQL query for extensive dataset exploration.
   - ['er-diagram.png'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/er_diagram.PNG): This file provides a simple ER diagram depicting the relational database structure.
