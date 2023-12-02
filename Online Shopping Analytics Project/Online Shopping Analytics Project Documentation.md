@@ -22,7 +22,7 @@ The project aimed to address key questions related to online shopping behavior:
   - How do spending patterns vary throughout the year, and what role do discounts and coupons play?
   - Who are the highest spending customers, and what are their preferences?
 
-## Methods, Techniques, Algorithms, Tools
+### Tools and Technologies
 The project utilized the following tools and technologies:
   - **SQL (Structured Query Language):** The primary language used for data manipulation, exploration, and analysis.
   - **SQL Server Management Studio (SSMS):** For database creation, data parsing, and initial data exploration.
@@ -32,41 +32,40 @@ The project utilized the following tools and technologies:
 This combination of tools facilitated a comprehensive approach to the analysis, from database creation and exploration using SQL to visual representation and interactive dashboards in Tableau. The dataset's initial format in Excel underscored the importance of diverse tools in handling and extracting insights from real-world datasets.
 
 ## Approach
+1. Obtained the online shopping dataset in Excel format from Kaggle, encompassing customer demographics, transaction details, and product descriptions.
+2. Created a relational database in SQL Server Management Studio (SSMS) using SQL queries to establish tables for Customer, Product, and Transactions.
+3. Imported the Kaggle dataset into SSMS and utilized SQL queries to parse the data into their respective tables.
+4. Ensured data quality and consistency by addressing any missing or inconsistent values.
+5. Conducted a comprehensive exploration of the dataset using SQL queries.
+   - Examined key attributes, identified patterns, and gained insights into customer demographics, product popularity, and transactional patterns.
+6. Transitioned the database to Tableau for developing insightful visualizations based on SQL query findings.
+7. Developed a variety of visualizations, including bar graphs, area graphs, and packed bubble charts.
+8. Grouped visualizations into dashboards focusing on key aspects such as customer demographics, sales analysis, location insights, consumer spending, and coupon engagement.
 
-### Data Processing
-1. Utilized SQL Server Management Studio (SSMS) for efficient data analysis.
-2. Created a relational database using SSMS with tables for Customer, Product, and Transactions.
+This approach involves a systematic progression from dataset acquisition to database development, data import, exploration, and visualization. Each step contributes to a cohesive and user-friendly understanding of the online shopping behavior in this dataset.
 
-### SQL Queries
-1. Employed SQL queries for exploration and data cleaning.
-2. Executed queries to analyze customer demographics, transaction data, and spending patterns.
-
-### Tableau Visualizations
-1. Transitioned to Tableau for creating insightful visualizations.
-2. Developed diverse visualizations, including bar graphs, area graphs, and packed bubble charts.
-
-### Interactive Dashboards
-1. Grouped visualizations into five interactive dashboards for a user-friendly experience.
-2. Dashboards focus on customer demographics, sales analysis, location insights, consumer spending, and coupon engagement.
-
-## Tableau Data Visualizations
+## Data Visualizations
 Transitioning to Tableau, the SQL query findings were used as a basis to create a variety of visualizations. Each visualization aimed to reveal patterns, trends, and relationships within the dataset. Notable visualizations included:
-
   - **Bar Graphs:** Customer demographics, total sales by product category, highest spending consumer analysis.
   - **Area and Bar Graphs:** Average discount percentage vs total sales throughout the year.
   - **Packed Bubble Chart:** Total spending distribution across locations.
   - **Treemaps:** Product categories by total sales.
+File(s): ['Data Visualizations']()
 
-## Tableau Dashboards
 The individual visualizations were grouped into five interactive dashboards:
-
   - **Customer Demographic Dashboard:** Highlights gender distribution by location.
   - **Sales Analysis Dashboard:** Analyzes total sales by product category, transactional patterns, and customer distribution by gender and tenure range.
   - **Location Analysis Dashboard:** Explores total spending distribution across locations and product categories.
   - **Consumer Spending Dashboard:** Focuses on the highest spending consumers and their product breakdown.
   - **Coupon Engagement Dashboard:** Analyzes coupon engagement by percentage and throughout the year.
-
 Each dashboard provides an interactive user experience, allowing users to explore and highlight factors they deem important.
+File(s): ['Interactive Dashboards']()
+
+## Files Included
+  - ['dsadas']: The raw dataset containing sales information.
+  - Urban Essential Sales Cleaned Data.xlsx: The cleaned and preprocessed dataset used for analysis.
+  - Urban Essential Stores Analysis.sql: The SQL Server script that includes the codes for the data cleaning, exploratory data analysis, and visualizations.
+  - README.md: This file provides an overview of the project, its objectives, and the analysis performed.
 
 ## Final Results
 In the absence of actual findings, hypothetical results could include:
