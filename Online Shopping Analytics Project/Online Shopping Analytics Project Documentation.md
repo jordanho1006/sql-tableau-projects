@@ -70,10 +70,10 @@ Each dashboard provides an interactive user experience, allowing users to explor
 The Customer Demographic Dashboard reveals a notable gender distribution, with a significant skew towards females across all locations. Additionally, female customers exhibit a longer average tenure on the platform compared to their male counterparts. Further exploration is recommended to understand the gender distribution concerning specific product categories.
 
 **Sales Analysis:**
-The Sales Analysis Dashboard uncovers that office items dominate in terms of the number of sales, constituting 37% of the platform's total sales. Surprisingly, offline spending contributes significantly to the overall customer expenditure, with in-store sales surpassing online sales. Contrary to initial assumptions, the correlation between discounts and total sales or customer spending is not as substantial.
+The Sales Analysis Dashboard uncovers that office items dominate in terms of the number of sales, constituting 37% of the platform's total sales. Surprisingly, offline spending contributes significantly to the overall customer expenditure, meaning that in-store sales are still superior to online sales. Contrary to initial assumptions, the correlation between discounts and total sales or customer spending is not as substantial.
 
 **Location Analysis:**
-The Location Analysis Dashboard highlights the outstanding performance of Chicago and California compared to New York, New Jersey, and Washington D.C. Interestingly, apparels emerge as the leading category in terms of total spending in Chicago and California, challenging the assumption of office items being the most frequently purchased.
+The Location Analysis Dashboard highlights the outstanding performance of Chicago and California compared to New York, New Jersey, and Washington D.C. Interestingly, apparels emerge as the leading category in terms of total spending in Chicago and California, contrary to the fact that office items are the most frequently purchased.
 
 **Consumer Spending:**
 Examining the Consumer Spending Dashboard reveals that the highest spending customers predominantly invest in apparel, Nest, office, and drinkware items. This aligns well with the findings in other dashboards concerning product categories.
