@@ -2,9 +2,6 @@
 Welcome to the Dashboards section of the Online Shopping Analytics Project. Below are the interactive dashboards created using Tableau, each focusing on key aspects of the dataset.
 
 ## Dashboard 1: Customer Demographic Dashboard
-![Dashboard 1 - Customer Demographics]
-
-## Dashboard 1: Customer Demographic Dashboard
 ![Dashboard 1 - Customer Demographics](https://github.com/jordanho1006/sql-tableau-projects/assets/105892684/1021cfee-2207-4251-b6e1-975f67d169d1)
 
 *Highlights gender distribution by location.*
