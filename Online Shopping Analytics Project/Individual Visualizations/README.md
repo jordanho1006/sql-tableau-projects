@@ -1,6 +1,6 @@
 # Individual Visualizations (Graphs/Charts)
 
-Welcome to the Individual Visualizations section of the Online Shopping Analytics Project. Below are the individual visualizations created using Tableau, each focusing on key aspects of the dataset.
+Welcome to the Individual Visualizations section of the Online Shopping Analytics Project. Below are the individual visualizations created using Tableau, each focusing on key aspects of the dataset. To interact with the dashboards visit: ['Tableau Public'](https://public.tableau.com/app/profile/jordan.ho1006/vizzes)
 
 [![Average Discount (%) vs Total Sales by Month](https://github.com/jordanho1006/sql-tableau-projects/assets/105892684/10bdd285-4579-448e-adbd-d278776fc5c0)](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/Individual%20Visualizations/Average%20Discount%20(%25)%20vs%20Total%20Sales%20by%20Month.png)
 
