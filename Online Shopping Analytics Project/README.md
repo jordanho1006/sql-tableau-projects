@@ -53,7 +53,7 @@ The individual visualizations were grouped into five interactive dashboards:
   - **Consumer Spending Dashboard:** Focuses on the highest spending consumers and their product breakdown.
   - **Coupon Engagement Dashboard:** Analyzes coupon engagement by percentage and throughout the year.
     
-Each dashboard provides an interactive user experience, allowing users to explore and highlight factors they deem important.
+Each dashboard provides an interactive user experience, allowing users to explore and highlight factors they deem important. To interact with the dashboards visit: ['Tableau Public'](https://public.tableau.com/app/profile/jordan.ho1006/vizzes)
 
 ## Files Included
   - ['Individual Visualizations'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Individual%20Visualizations): The individual visualizations created in Tableau based on SQL query findings.
@@ -80,4 +80,3 @@ Examining the Consumer Spending Dashboard reveals that the highest spending cust
 
 **Coupon Engagement:**
 The Coupon Engagement Analysis indicates that the coupon usage rate remains relatively constant throughout the year, despite fluctuations in the number of coupons clicked, peaking in August. This suggests that the current coupon discounts may not be compelling enough to significantly impact customer purchasing behavior.
-
