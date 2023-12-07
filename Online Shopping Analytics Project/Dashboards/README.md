@@ -1,5 +1,5 @@
 # Dashboards
-Welcome to the Dashboards section of the Online Shopping Analytics Project. Below are the interactive dashboards created using Tableau, each focusing on key aspects of the dataset.
+Welcome to the Dashboards section of the Online Shopping Analytics Project. Below are the interactive dashboards created using Tableau, each focusing on key aspects of the dataset. To interact with the dashboards visit: ['Tableau Public'](https://public.tableau.com/app/profile/jordan.ho1006/vizzes)
 
 ## Dashboard 1: Customer Demographic Dashboard
 ![Dashboard 1 - Customer Demographics](https://github.com/jordanho1006/sql-tableau-projects/assets/105892684/1021cfee-2207-4251-b6e1-975f67d169d1)
