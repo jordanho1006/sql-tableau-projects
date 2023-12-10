@@ -52,18 +52,20 @@ The individual visualizations were grouped into five interactive dashboards:
   - **Location Analysis Dashboard:** Explores total spending distribution across locations and product categories.
   - **Consumer Spending Dashboard:** Focuses on the highest spending consumers and their product breakdown.
   - **Coupon Engagement Dashboard:** Analyzes coupon engagement by percentage and throughout the year.
+
+After receiving feedback, the five dashboards have been consolidated into a comprehensive hub:
+  - **Online Shopping Insights Hub:** Integrates all five dashboards into a single interface, offering in-depth analysis of insights and patterns.
     
-Each dashboard provides an interactive user experience, allowing users to explore and highlight factors they deem important. To interact with the dashboards visit: ['Tableau Public'](https://public.tableau.com/app/profile/jordan.ho1006/vizzes)
+Each dashboard provides an interactive user experience, allowing users to explore and highlight factors they deem important. To interact with the dashboards visit: ['Tableau Public'](https://public.tableau.com/app/profile/jordan.ho1006/viz/online_shopping_analytics_v2/OnlineShoppingInsightsHubv2)
 
 ## Files Included
   - ['Individual Visualizations'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Individual%20Visualizations): The individual visualizations created in Tableau based on SQL query findings.
-  - ['Dashboards'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Dashboards): The interactive dashboards created on Tableau. *Note: These are just images of the interactive dashboard.*
+  - ['Dashboards'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Dashboards): The interactive dashboards created on Tableau. *Note: These are just images of the interactive dashboard, visit my Tableau Public for interactive features.*
   - ['README.md'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/README.md): This file provides an overview of the project.
-  - ['create_database.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/analyze_data.sql): The Raw SQL query for constructing the relational database.
-  - ['analyze_data.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/create_database.sql): The Raw SQL query for extensive dataset exploration.
+  - ['create_database.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/create_database_v2.sql): The Raw SQL query for constructing the relational database.
+  - ['analyze_data.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/analyze_data_v2.sql): The Raw SQL query for extensive dataset exploration.
   - ['er-diagram.png'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/er_diagram.PNG): This file provides a simple ER diagram depicting the relational database structure.
-  - ['online_shopping_analytics.twbx'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/online_shopping_analytics.twbx): This Tableau file compromises all the data visualizations and interactive dashboards.
-  - ['online_shopping_analytics.pptx'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/online_shopping_analytics.pptx): This Powerpoint file includes static images of all the data visualizations.
+  - ['online_shopping_analytics.twbx'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/online_shopping_analytics_v2.twbx): This Tableau file compromises all the data visualizations and interactive dashboards.
     
 ## Conclusion
 **Customer Demographic:**
