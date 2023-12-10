@@ -1,5 +1,5 @@
 # Dashboards
-Welcome to the Dashboards section of the Online Shopping Analytics Project. Below are the interactive dashboards created using Tableau, each focusing on key aspects of the dataset. To interact with this dashboards visit: ['Tableau Public']([https://public.tableau.com/app/profile/jordan.ho1006/vizzes](https://public.tableau.com/app/profile/jordan.ho1006/viz/online_shopping_analytics_v2/OnlineShoppingInsightsHubv2))
+Welcome to the Dashboards section of the Online Shopping Analytics Project. Below are the interactive dashboards created using Tableau, each focusing on key aspects of the dataset. To interact with this dashboards visit: ['Tableau Public 📊']([https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset/data](https://public.tableau.com/app/profile/jordan.ho1006/viz/online_shopping_analytics_v2/OnlineShoppingInsightsHubv2))
 
 ## Dashboard: Online Shopping Insights Hub v2
 ![Online Shopping Insights Hub](https://github.com/jordanho1006/sql-tableau-projects/assets/105892684/4fbb7aae-8876-4915-bd77-299e25fe1a26)(https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/Dashboards/Dashboard%20-%20Online%20Shopping%20Insights%20Hub.png)
