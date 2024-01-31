@@ -46,3 +46,8 @@ Explore key findings derived from the U.S. Police Shootings Analysis Dashboard:
    - The data reveals that incidents involving victims with guns far exceed any other type of weapon in police shootings. This emphasizes the prevalence of firearms in such encounters and warrants a closer examination of the role of firearms in policing.
 
 These insights offer a glimpse into the complex dynamics of U.S. police shootings. Use the provided filters and visualizations to delve deeper into each aspect and gain a comprehensive understanding of the data.
+
+## Files Included
+  - ['US Police Shootings.twbx'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/U.S.%20Police%20Shootings%20Dashboard/US%20Police%20Shootings.twbx): This file is the Tableau packaged workbook that contains all the visuals, dashboards, and supporting local file data and background images.
+  - ['Dashboard - U.S. Police Shootings Analysis.png'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/U.S.%20Police%20Shootings%20Dashboard/Dashboard%20-%20U.S.%20Police%20Shootings%20Analysis.png): A still image of the interactive dashboard created on Tableau Desktop. *Note: These are just images of the interactive dashboards*
+  - ['README.md'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/U.S.%20Police%20Shootings%20Dashboard/README.md): This file provides an overview of the project.
