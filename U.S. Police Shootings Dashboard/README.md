@@ -12,7 +12,7 @@ Dataset Source: ['👮‍♂️🔫US Police Shootings from 2015- Sep 2022'](htt
 Access the live dashboard on Tableau Public: ['U.S. Police Shootings Analysis'](https://public.tableau.com/app/profile/jordan.ho1006/viz/USPoliceShootings_17066618168550/Dashboard)
 
 ## Visualizations
-1. **KPI(s):** Overview of the total number of police shooting cases.
+1. **KPI:** Overview of the total number of police shooting cases.
 2. **Body Camera Usage Pie Chart:** Breakdown of incidents with body cameras on or off.
 3. **Signs of Mental Illness Pie Chart:** Breakdown of incidents where the victim showed signs of mental illness.
 4. **U.S. Police Shootings Heatmap:** Geographic distribution of incidents across the U.S. from 2015-2022.
