@@ -1,10 +1,10 @@
 # COVID-19 Dashboard
 Amidst the global turmoil caused by the COVID-19 pandemic, the need for accessible, reliable data became paramount. The COVID-19 Data Exploration and Dashboard project was born out of this necessity, aiming to provide a comprehensive analysis and visualization platform for understanding the pandemic's impact. Leveraging datasets from sources like Our World in Data, the project utilized SQL data exploration techniques to extract insights and develop a Tableau dashboard. By offering stakeholders a user-friendly interface to explore key metrics such as confirmed cases, deaths, and vaccinations, the project aimed to empower informed decision-making and foster dialogue on public health strategies and socio-economic impacts.
 
-## Overview
+## Project Overview
 This document serves as documentation for the COVID-19 data exploration and dashboard project, which aimed to analyze and visualize COVID-19-related data from the Our World in Data repository. The project involved SQL data exploration, table creation, data cleaning, and the development of a comprehensive dashboard using Tableau.
 
-## Project Scope
+### Project Scope
 The project utilized COVID-19 data provided by Our World in Data, focusing on metrics such as confirmed cases, deaths, vaccinations, and various socio-economic indicators. The data exploration phase involved SQL queries to extract, clean, and transform the dataset for analysis. Subsequently, a Tableau dashboard was developed to visualize key insights and trends.
 
 ## Data Exploration
@@ -48,7 +48,7 @@ The Tableau dashboard was designed to visualize key insights and trends related 
 ## Project Conclusion
 The COVID-19 Data Exploration and Dashboard project has provided invaluable insights into the pandemic's impact through meticulous data analysis and visualization. By leveraging SQL queries and Tableau's visualization capabilities, the project distilled complex COVID-19 datasets into actionable insights accessible to a broad audience. The interactive Tableau dashboard serves as a centralized platform for tracking key metrics and empowering stakeholders to make informed decisions. Moving forward, these insights will continue to inform efforts to combat the pandemic and shape public health strategies, highlighting the project's lasting impact on data-driven decision-making in public health crises.
 
-## Recommendations and Future Work
+### Recommendations and Future Work
 - Continuously update the dashboard with the latest COVID-19 data.
 - Enhance interactivity and user experience by adding more filters and drill-down options.
 - Conduct further analysis to identify correlations and causal relationships between variables.
