@@ -11,21 +11,17 @@ The project utilized COVID-19 data provided by Our World in Data, focusing on me
 The COVID-19 dataset from Our World in Data contains various metrics sourced from organizations such as WHO, Johns Hopkins University, and official government reports. The dataset includes information on confirmed cases, deaths, hospitalizations, ICU admissions, testing, vaccinations, and policy responses. The data exploration phase involved two main SQL scripts executed on SQL Server: "table_creation.sql" and "data_exploration.sql".
 
 - **table_creation.sql**: This script focuses on creating tables and performing initial data processing steps to prepare the dataset for analysis. It includes the following tasks:
-```
   - Specifying the specific database name
   - Creating tables such as covid_deaths and covid_vaccinations from the raw dataset
   - Retrieving column data types and correcting them as necessary for easier data exploration
-```
 
 - **data_exploration.sql**: This script consists of steps taken after the initial table creation, focusing on extracting relevant data for exploratory data analysis. It includes the following tasks:
-```
   - Selecting relevant data for analysis, including metrics such as confirmed cases, deaths, and vaccinations
   - Finding potential Key Performance Indicators (KPIs) such as total cases, total deaths, and total vaccines administered
   - Conducting comparative analysis:
     - Comparing total cases vs. total deaths (%) in the United States
     - Sorting countries by the highest death count per population
     - Calculating metrics like mortality rate from contracting COVID-19 and comparing total population with total vaccinations using rolling counts and percentages
-```
 
 These SQL scripts were crucial in preparing and exploring the COVID-19 dataset, providing the necessary foundation for subsequent analysis and visualization.
 
