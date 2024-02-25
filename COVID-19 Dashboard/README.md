@@ -27,6 +27,14 @@ The COVID-19 dataset from Our World in Data contains various metrics sourced fro
 
 These SQL scripts were crucial in preparing and exploring the COVID-19 dataset, providing the necessary foundation for subsequent analysis and visualization.
 
+### Tools and Technologies:
+The project utilized the following tools and technologies:
+  - **SQL (Structured Query Language):** The primary language used for data manipulation, exploration, and analysis.
+  - **SQL Server Management Studio (SSMS):** For database creation, data parsing, and initial data exploration.
+  - **Tableau:** For creating a variety of visualizations and interactive dashboards based on SQL query findings.
+  - **Excel:** While not directly used in the project, the dataset obtained from 'Our World in Data' was in Excel format, serving as the initial file type for data exploration.
+
+This combination of tools facilitated a comprehensive approach to the analysis, from database creation and exploration using SQL to visual representation and interactive dashboards in Tableau. The dataset's initial format in Excel underscored the importance of diverse tools in handling and extracting insights from real-world datasets.
 
 ## Tableau Dashboard
 Access the live dashboard on Tableau Public: ['COVID-19 Dashboard'](https://public.tableau.com/app/profile/jordan.ho1006/viz/COVID19_Dashboard_17088892579140/COVID-19DashboardbyJordanHo)
