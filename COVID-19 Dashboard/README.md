@@ -9,6 +9,15 @@ This document serves as documentation for the COVID-19 data exploration and dash
 ### Project Scope
 The project utilized COVID-19 data provided by Our World in Data, focusing on metrics such as confirmed cases, deaths, vaccinations, and various socio-economic indicators. The data exploration phase involved SQL queries to extract, clean, and transform the dataset for analysis. Subsequently, a Tableau dashboard was developed to visualize key insights and trends.
 
+### Tools and Technologies:
+The project utilized the following tools and technologies:
+  - **SQL (Structured Query Language):** The primary language used for data manipulation, exploration, and analysis.
+  - **SQL Server Management Studio (SSMS):** For database creation, data parsing, and initial data exploration.
+  - **Tableau:** For creating a variety of visualizations and interactive dashboards based on SQL query findings.
+  - **Excel:** While not directly used in the project, the dataset obtained from 'Our World in Data' was in Excel format, serving as the initial file type for data exploration.
+
+This combination of tools facilitated a comprehensive approach to the analysis, from database creation and exploration using SQL to visual representation and interactive dashboards in Tableau. The dataset's initial format in Excel underscored the importance of diverse tools in handling and extracting insights from real-world datasets.
+
 ## Data Exploration
 The COVID-19 dataset from Our World in Data contains various metrics sourced from organizations such as WHO, Johns Hopkins University, and official government reports. The dataset includes information on confirmed cases, deaths, hospitalizations, ICU admissions, testing, vaccinations, and policy responses. The data exploration phase involved two main SQL scripts executed on SQL Server: "table_creation.sql" and "data_exploration.sql".
 
@@ -26,15 +35,6 @@ The COVID-19 dataset from Our World in Data contains various metrics sourced fro
     - Calculating metrics like mortality rate from contracting COVID-19 and comparing total population with total vaccinations using rolling counts and percentages
 
 These SQL scripts were crucial in preparing and exploring the COVID-19 dataset, providing the necessary foundation for subsequent analysis and visualization.
-
-### Tools and Technologies:
-The project utilized the following tools and technologies:
-  - **SQL (Structured Query Language):** The primary language used for data manipulation, exploration, and analysis.
-  - **SQL Server Management Studio (SSMS):** For database creation, data parsing, and initial data exploration.
-  - **Tableau:** For creating a variety of visualizations and interactive dashboards based on SQL query findings.
-  - **Excel:** While not directly used in the project, the dataset obtained from 'Our World in Data' was in Excel format, serving as the initial file type for data exploration.
-
-This combination of tools facilitated a comprehensive approach to the analysis, from database creation and exploration using SQL to visual representation and interactive dashboards in Tableau. The dataset's initial format in Excel underscored the importance of diverse tools in handling and extracting insights from real-world datasets.
 
 ## Tableau Dashboard
 Access the live dashboard on Tableau Public: ['COVID-19 Dashboard'](https://public.tableau.com/app/profile/jordan.ho1006/viz/COVID19_Dashboard_17088892579140/COVID-19DashboardbyJordanHo)
