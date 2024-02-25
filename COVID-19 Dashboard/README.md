@@ -1,4 +1,4 @@
-# COVID-19 Dashboard
+# Coronavirus (COVID-19) Dashboard
 Amidst the global turmoil caused by the COVID-19 pandemic, the need for accessible, reliable data became paramount. The COVID-19 Data Exploration and Dashboard project was born out of this necessity, aiming to provide a comprehensive analysis and visualization platform for understanding the pandemic's impact. Leveraging datasets from sources like Our World in Data, the project utilized SQL data exploration techniques to extract insights and develop a Tableau dashboard. By offering stakeholders a user-friendly interface to explore key metrics such as confirmed cases, deaths, and vaccinations, the project aimed to empower informed decision-making and foster dialogue on public health strategies and socio-economic impacts.
 
 Access the live dashboard on Tableau Public: ['COVID-19 Dashboard'](https://public.tableau.com/app/profile/jordan.ho1006/viz/COVID19_Dashboard_17088892579140/COVID-19DashboardbyJordanHo)
