@@ -71,7 +71,7 @@ By implementing these strategies, Los Angeles can mitigate crime rates, promote 
 - ['README.md'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/City%20of%20Angel's%20Watch%3A%20Mapping%20LA's%20Crime/README.md): This file provides an overview of the project.
 
 ## References
-- [Los Angeles City Open Data Portal - Crime Data](https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/about_data)
+- [Los Angeles City Open Data Portal - Crime Data from 2010 to 2019](https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/about_data)
 - [Los Angeles City Open Data Portal - Crime Data from 2020 to Present](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
 
 This project aims to illuminate the complex dynamics of crime in Los Angeles City, fostering data-driven decision-making and community engagement in addressing urban safety challenges.
