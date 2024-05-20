@@ -12,6 +12,19 @@ Feel free to navigate through the projects listed below, each providing a unique
 
 ## Projects
 
+### City of Angel's Watch: Mapping LA's Crime Dashboard with Tableau and Python (April 2024)
+- **Folders:** [`City of Angel's Watch: Mapping LA's Crime`](https://github.com/jordanho1006/sql-tableau-projects/tree/main/City%20of%20Angel's%20Watch%3A%20Mapping%20LA's%20Crime)
+- **Objective:**
+  - Illuminate the complex dynamics of crime in Los Angeles through an analytical and narrative approach, fostering data-driven decision-making and community engagement.
+- **Key Points:**
+  - Engineered a narrative/analytical Tableau dashboard featuring interactive visualizations such as heatmaps, KPIs, and bar charts to provide an in-depth analysis of crime trends, hotspots, and demographic patterns in Los Angeles.
+  - Leveraged Python to clean and prepare data, utilizing libraries like Pandas, NumPy, and Matplotlib to transform raw crime data into structured, actionable insights while handling missing values and standardizing data formats.
+  - Conducted a comprehensive data-driven storytelling approach that combined visualizations with narrative elements to highlight key insights and patterns, supporting informed decision-making for policymakers and community leaders.
+- **Technical Highlights:**
+  - Implemented advanced Tableau features, including parameter controls and dashboard actions, enabling dynamic filtering and drill-down capabilities for personalized crime data analysis.
+  - Merged and normalized multiple datasets from the LA Open Data portal, ensuring structural consistency and resolving temporal data discrepancies.
+
+
 ### Coronavirus (COVID-19) Dashboard with SSMS and Tableau (February 2024)
 - **Folders:** [`COVID-19 Dashboard`](https://github.com/jordanho1006/sql-tableau-projects/tree/main/COVID-19%20Dashboard)
 - **Objectives:**
