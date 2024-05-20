@@ -8,7 +8,7 @@ Feel free to navigate through the projects listed below, each providing a unique
 1. [Coronavirus (COVID-19) Dashboard](#coronavirus-covid-19-dashboard-with-ssms-and-tableau-february-2024)
 2. [U.S. Police Shootings Dashboard](#us-police-shootings-analysis-dashboard-with-tableau-february-2024)
 3. [Online Shopping Analytics Project](#online-shopping-analytics-with-sql-server-management-studio-and-tableau-december-2023)
-
+4. [City of Angel's Watch: Mapping LA's Crime Dashboard](#city-of-angels-watch-mapping-las-crime-dashboard-with-tableau-and-python-april-2024)
 
 ## Projects
 
